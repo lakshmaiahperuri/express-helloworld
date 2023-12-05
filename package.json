@@ -9,6 +9,7 @@
     "dev": "nodemon app",
     "debug": "node  --inspect index.js"
   },
+  "packageManager": "pnpm@7.5.1",
   "author": "lakshmaiahperuri",
   "license": "ISC",
   "dependencies": {
